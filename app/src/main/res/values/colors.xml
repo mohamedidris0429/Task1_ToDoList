@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand / Primary Palette (Deep Indigo & Modern Blue) -->
+    <color name="primary">#1E3A8A</color>
+    <color name="primary_variant">#1D4ED8</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="primary_container">#DBEAFE</color>
+    <color name="on_primary_container">#1E3A8A</color>
+
+    <color name="secondary">#4F46E5</color>
+    <color name="on_secondary">#FFFFFF</color>
+    <color name="secondary_container">#EEF2FF</color>
+    <color name="on_secondary_container">#312E81</color>
+
+    <!-- Surfaces & Backgrounds -->
+    <color name="background">#F8FAFC</color>
+    <color name="on_background">#0F172A</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#0F172A</color>
+    <color name="surface_variant">#F1F5F9</color>
+    <color name="on_surface_variant">#475569</color>
+
+    <!-- Typography & Outlines -->
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_tertiary">#94A3B8</color>
+    <color name="text_strikethrough">#94A3B8</color>
+    <color name="divider">#E2E8F0</color>
+    <color name="card_stroke">#E2E8F0</color>
+
+    <!-- Priority Colors -->
+    <color name="priority_high">#EF4444</color>
+    <color name="priority_high_bg">#FEE2E2</color>
+    <color name="priority_medium">#F59E0B</color>
+    <color name="priority_medium_bg">#FEF3C7</color>
+    <color name="priority_low">#3B82F6</color>
+    <color name="priority_low_bg">#DBEAFE</color>
+
+    <!-- Category Accent Colors -->
+    <color name="category_general">#64748B</color>
+    <color name="category_general_bg">#F1F5F9</color>
+    <color name="category_work">#7C3AED</color>
+    <color name="category_work_bg">#EDE9FE</color>
+    <color name="category_personal">#DB2777</color>
+    <color name="category_personal_bg">#FCE7F3</color>
+    <color name="category_study">#0284C7</color>
+    <color name="category_study_bg">#E0F2FE</color>
+
+    <!-- States & Feedback -->
+    <color name="success">#10B981</color>
+    <color name="success_bg">#D1FAE5</color>
+    <color name="error">#DC2626</color>
+    <color name="error_bg">#FEE2E2</color>
+
+    <!-- System UI Colors -->
+    <color name="status_bar">#1E3A8A</color>
+    <color name="navigation_bar">#F8FAFC</color>
+</resources>

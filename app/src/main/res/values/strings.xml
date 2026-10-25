@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">To-Do List</string>
+    <string name="app_subtitle">Organize your day efficiently</string>
+
+    <!-- Filters & Tabs -->
+    <string name="filter_all">All</string>
+    <string name="filter_pending">Pending</string>
+    <string name="filter_completed">Completed</string>
+    <string name="filter_count_format">%1$s (%2$d)</string>
+
+    <!-- Task Actions -->
+    <string name="add_task">Add Task</string>
+    <string name="new_task">New Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="save_task">Save Task</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="undo">Undo</string>
+
+    <!-- Form Fields & Hints -->
+    <string name="hint_task_title">What needs to be done? *</string>
+    <string name="hint_task_description">Add details or notes (optional)</string>
+    <string name="search_hint">Search tasks by title or note…</string>
+    <string name="clear_search">Clear search</string>
+
+    <!-- Priority & Category -->
+    <string name="priority_label">Priority Level</string>
+    <string name="priority_high">High</string>
+    <string name="priority_medium">Medium</string>
+    <string name="priority_low">Low</string>
+
+    <string name="category_label">Category</string>
+    <string name="category_general">General</string>
+    <string name="category_work">Work</string>
+    <string name="category_personal">Personal</string>
+    <string name="category_study">Study</string>
+
+    <!-- Validation & Notifications -->
+    <string name="error_title_empty">Please enter a task title</string>
+    <string name="error_title_too_long">Task title must be under 80 characters</string>
+    <string name="task_added_success">Task created successfully</string>
+    <string name="task_updated_success">Task updated successfully</string>
+    <string name="task_deleted_message">Task removed</string>
+    <string name="task_completed_feedback">Marked as completed!</string>
+    <string name="task_uncompleted_feedback">Marked as pending</string>
+
+    <!-- Delete Confirmation -->
+    <string name="delete_confirm_title">Delete this task?</string>
+    <string name="delete_confirm_message">\"%1$s\" will be removed. You can undo this immediately from the prompt.</string>
+
+    <!-- Statistics -->
+    <string name="progress_summary">%1$d of %2$d tasks completed (%3$d%%)</string>
+    <string name="all_tasks_done">All tasks completed! Great work.</string>
+
+    <!-- Empty States -->
+    <string name="empty_all_title">No tasks found</string>
+    <string name="empty_all_desc">Tap the + button below to create your first task and stay on track.</string>
+    <string name="empty_pending_title">All caught up!</string>
+    <string name="empty_pending_desc">You don\'t have any pending tasks right now. Relax or plan ahead!</string>
+    <string name="empty_completed_title">No completed tasks yet</string>
+    <string name="empty_completed_desc">Tasks you complete will be neatly organized here.</string>
+    <string name="empty_search_title">No matching tasks</string>
+    <string name="empty_search_desc">No tasks match \"%1$s\". Check your spelling or try another keyword.</string>
+
+    <!-- Accessibility / Content Descriptions -->
+    <string name="cd_add_task">Create new task</string>
+    <string name="cd_edit_task">Edit task details</string>
+    <string name="cd_delete_task">Delete task</string>
+    <string name="cd_task_checkbox">Toggle task completion</string>
+    <string name="cd_search_tasks">Search tasks</string>
+    <string name="cd_clear_search">Clear search input</string>
+</resources>

@@ -1,7 +1,8 @@
 
 ## 📱 Download My App
 
-[![Download APK](https://github.com/mohamedidris0429/Task1_ToDoList/releases/tag/V1.0)
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/mohamedidris0429/Task1_ToDoList/releases/tag/V1.0)
+
 
 # To-Do List App (Task 1 — SAM AI Technologies Internship)
 
